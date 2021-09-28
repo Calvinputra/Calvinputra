@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Calvin Putra\\\\OneDrive\\\\Desktop\\\\amazon\\\\admin\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_70b7683a"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\Calvin Putra\\\\OneDrive\\\\Desktop\\\\amazon\\\\admin\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_4add5216"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Calvin Putra\\\\OneDrive\\\\Desktop\\\\amazon\\\\admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_df217a02"
+  }
+]
